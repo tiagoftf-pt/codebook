@@ -19,7 +19,6 @@ export async function getUser(){
     return data
 }
 
-
 export async function getUserOrders(){
     const browserData = getSession()
     const response = await fetch(`${process.env.REACT_APP_HOST}/660/orders?user.id=${browserData.cbid}`,{
@@ -32,8 +31,6 @@ export async function getUserOrders(){
     const data = await response.json()
     return data
 }
-
-
 
 export async function createOrder(cartList, total, user){
     const browserData = getSession()
@@ -53,7 +50,7 @@ export async function createOrder(cartList, total, user){
         body: JSON.stringify(order)
     })
     if(!response.ok){
-        throw {message: response.statusText, status: response.status}
+        throw {message: response.statusText, status: response.status}//eslint-disable-line
     }
     const data = await response.json()
     return data

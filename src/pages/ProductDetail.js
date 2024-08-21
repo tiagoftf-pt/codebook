@@ -24,7 +24,7 @@ export const ProductDetail = () => {
       setProduct(data)
       setErrorMessage("")
     } catch(error){
-      toast.error(error.message)
+      toast.error(errorMessage)
     }
     }
     fetchProduct()

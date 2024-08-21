@@ -15,9 +15,8 @@ export const FeaturedProducts = () => {
         setProducts(data)
         setErrorMessage("")
       }catch(error){
-        toast.error(error.message)
+        toast.error(errorMessage)
       }
-
     }
     fetchProducts()
 },[])
