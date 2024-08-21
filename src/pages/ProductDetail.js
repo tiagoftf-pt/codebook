@@ -28,7 +28,8 @@ export const ProductDetail = () => {
     }
     }
     fetchProduct()
-  },[id])
+  },[id])//eslint-disable-line
+
 
   useEffect(()=>{
 

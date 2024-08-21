@@ -19,7 +19,8 @@ export const FeaturedProducts = () => {
       }
     }
     fetchProducts()
-},[])
+},[])//eslint-disable-line
+
 
   return (
     <section className="my-20">
