@@ -1,4 +1,3 @@
-import { ProductsList } from "../pages"
 
 export const filterReducer = (state, action) => {
     const {type, payload } = action
