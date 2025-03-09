@@ -29,7 +29,7 @@
 
 I'm incredibly proud of what I've accomplished so far and excited to continue improving this application. Special thanks to Shubham Sarda for his excellent resources and documentation that made this learning experience possible!
 
-🔗 <a href="https://social-book-puce.vercel.app/">https://social-book-puce.vercel.app/</a>
+🔗 <a href="https://codebook-webapp.netlify.app/">https://codebook-webapp.netlify.app/</a>
 
 #React #E-Commerce #WebDevelopment #TailwindCSS #JSONServer #Coding #WebApp
 
