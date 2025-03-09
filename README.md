@@ -1,4 +1,4 @@
-🚀 <b>CodeBook: E-Commerce React Application </p>🚀
+<b> 🚀 CodeBook: E-Commerce React Application 🚀 </p>
 <p>I'm excited to share my latest project: a modern e-commerce web application developed with React! 🎉</p>
 <p>This project is part of my journey in mastering React concepts and building real-world applications with industry-standard practices.</p>
 
