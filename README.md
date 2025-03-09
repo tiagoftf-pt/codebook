@@ -1,8 +1,10 @@
 <b> 🚀 CodeBook: E-Commerce React Application 🚀 </p>
+
 <p>I'm excited to share my latest project: a modern e-commerce web application developed with React! 🎉</p>
 <p>This project is part of my journey in mastering React concepts and building real-world applications with industry-standard practices.</p>
 
 🔹 Technologies Used:
+
 <p>React: For building a dynamic and responsive user interface</p>
 <p>React Router: For seamless navigation between different pages</p>
 <p>Context API: For efficient state management across the application</p>
@@ -12,6 +14,7 @@
 <p>React Toastify: For user-friendly notifications</p>
 
 🔹 Key Features:
+
 <p>Complete Authentication System: Secure user registration and login with JWT</p>
 <p>Product Catalog: Browse through a variety of products with detailed information</p>
 <p>Shopping Cart: Add, remove, and update items in your cart</p>
@@ -22,6 +25,7 @@
 
 
 🔹 Next Steps:
+
 <p>Adding user reviews and ratings system</p>
 <p>Enhancing product recommendation algorithm</p>
 <p>Integrating with a payment gateway</p>
